@@ -1,0 +1,27 @@
+"E:\Clion\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_C_COMPILER=E:/Clion/toolchain/arm-none-eabi/13.3 rel1/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=E:/Clion/toolchain/arm-none-eabi/13.3 rel1/bin/arm-none-eabi-g++.exe" -G "CodeBlocks - MinGW Makefiles" -S E:\CubeMX\project\project -B E:\CubeMX\project\project\cmake-build-debug
+CMake Deprecation Warning:
+  Support for "Extra Generators" like
+
+    CodeBlocks
+
+  is deprecated and will be removed from a future version of CMake.  IDEs may
+  use the cmake-file-api(7) to view CMake-generated project build trees.
+
+
+-- Minimal optimization, debug info included
+[Include] E:/CubeMX/project/project/bsp
+[Include] E:/CubeMX/project/project/bsp/can
+[Include] E:/CubeMX/project/project/bsp/gpio
+[Include] E:/CubeMX/project/project/bsp/uart
+[Include] E:/CubeMX/project/project/app
+[Include] E:/CubeMX/project/project/app/chassis
+[Include] E:/CubeMX/project/project/app/gimbal
+[Include] E:/CubeMX/project/project/modules
+[Include] E:/CubeMX/project/project/modules/bmi088
+[Include] E:/CubeMX/project/project/modules/dr16
+[Include] E:/CubeMX/project/project/modules/motors
+[Include] E:/CubeMX/project/project/calculate
+[Include] E:/CubeMX/project/project/calculate/pid
+-- Configuring done (0.1s)
+-- Generating done (0.0s)
+-- Build files have been written to: E:/CubeMX/project/project/cmake-build-debug

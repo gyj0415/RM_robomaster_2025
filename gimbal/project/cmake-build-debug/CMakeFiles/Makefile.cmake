@@ -104,7 +104,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "E:/Clion/CLion 2024.1.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Internal/FeatureTesting.cmake"
   "E:/Clion/CLion 2024.1.4/bin/cmake/win/x64/share/cmake-3.28/Modules/Platform/Generic.cmake"
   "E:/Clion/CLion 2024.1.4/bin/cmake/win/x64/share/cmake-3.28/Modules/ProcessorCount.cmake"
-  "E:/CubeMX/project/gimbal/project/CMakeLists.txt"
+  "E:/CubeMX/project/rm/gimbal/project/CMakeLists.txt"
   "CMakeFiles/3.28.1/CMakeASMCompiler.cmake"
   "CMakeFiles/3.28.1/CMakeCCompiler.cmake"
   "CMakeFiles/3.28.1/CMakeCXXCompiler.cmake"

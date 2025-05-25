@@ -1,4 +1,4 @@
-"E:\Clion\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_C_COMPILER=E:/Clion/toolchain/arm-none-eabi/13.3 rel1/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=E:/Clion/toolchain/arm-none-eabi/13.3 rel1/bin/arm-none-eabi-g++.exe" -G "CodeBlocks - MinGW Makefiles" -S E:\CubeMX\project\gimbal\project -B E:\CubeMX\project\gimbal\project\cmake-build-debug
+"E:\Clion\CLion 2024.1.4\bin\cmake\win\x64\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_C_COMPILER=E:/Clion/toolchain/arm-none-eabi/13.3 rel1/bin/arm-none-eabi-gcc.exe" "-DCMAKE_CXX_COMPILER=E:/Clion/toolchain/arm-none-eabi/13.3 rel1/bin/arm-none-eabi-g++.exe" -G "CodeBlocks - MinGW Makefiles" -S E:\CubeMX\project\rm\gimbal\project -B E:\CubeMX\project\rm\gimbal\project\cmake-build-debug
 CMake Deprecation Warning:
   Support for "Extra Generators" like
 
@@ -23,22 +23,23 @@ CMake Deprecation Warning:
 -- Detecting CXX compile features
 -- Detecting CXX compile features - done
 -- Minimal optimization, debug info included
-[Include] E:/CubeMX/project/gimbal/project/bsp
-[Include] E:/CubeMX/project/gimbal/project/bsp/can
-[Include] E:/CubeMX/project/gimbal/project/bsp/gpio
-[Include] E:/CubeMX/project/gimbal/project/bsp/uart
-[Include] E:/CubeMX/project/gimbal/project/app
-[Include] E:/CubeMX/project/gimbal/project/app/chassis
-[Include] E:/CubeMX/project/gimbal/project/app/gimbal
-[Include] E:/CubeMX/project/gimbal/project/modules
-[Include] E:/CubeMX/project/gimbal/project/modules/IMU
-[Include] E:/CubeMX/project/gimbal/project/modules/IMU/BMI088
-[Include] E:/CubeMX/project/gimbal/project/modules/dr16
-[Include] E:/CubeMX/project/gimbal/project/modules/motors
-[Include] E:/CubeMX/project/gimbal/project/modules/motors/daj
-[Include] E:/CubeMX/project/gimbal/project/modules/motors/dm
-[Include] E:/CubeMX/project/gimbal/project/calculate
-[Include] E:/CubeMX/project/gimbal/project/calculate/pid
--- Configuring done (1.3s)
+[Include] E:/CubeMX/project/rm/gimbal/project/bsp
+[Include] E:/CubeMX/project/rm/gimbal/project/bsp/can
+[Include] E:/CubeMX/project/rm/gimbal/project/bsp/gpio
+[Include] E:/CubeMX/project/rm/gimbal/project/bsp/uart
+[Include] E:/CubeMX/project/rm/gimbal/project/app
+[Include] E:/CubeMX/project/rm/gimbal/project/app/chassis
+[Include] E:/CubeMX/project/rm/gimbal/project/app/gimbal
+[Include] E:/CubeMX/project/rm/gimbal/project/app/gimbal/.idea
+[Include] E:/CubeMX/project/rm/gimbal/project/modules
+[Include] E:/CubeMX/project/rm/gimbal/project/modules/IMU
+[Include] E:/CubeMX/project/rm/gimbal/project/modules/IMU/BMI088
+[Include] E:/CubeMX/project/rm/gimbal/project/modules/dr16
+[Include] E:/CubeMX/project/rm/gimbal/project/modules/motors
+[Include] E:/CubeMX/project/rm/gimbal/project/modules/motors/daj
+[Include] E:/CubeMX/project/rm/gimbal/project/modules/motors/dm
+[Include] E:/CubeMX/project/rm/gimbal/project/calculate
+[Include] E:/CubeMX/project/rm/gimbal/project/calculate/pid
+-- Configuring done (2.4s)
 -- Generating done (0.0s)
--- Build files have been written to: E:/CubeMX/project/gimbal/project/cmake-build-debug
+-- Build files have been written to: E:/CubeMX/project/rm/gimbal/project/cmake-build-debug
